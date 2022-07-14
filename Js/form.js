@@ -9,7 +9,7 @@ function what1(){
     var email=document.getElementById("input5").value;
     var textarea=document.getElementById("input6").value;
    
-    var Url=""https://wa.me/+918319251431?text="
+    var Url="https://wa.me/+918319251431?text="
     + "first Name :"+ fname + "%0a"
     + "Last Name :"+ lastname + "%0a"
     + "Date :"+ date + "%0a"
